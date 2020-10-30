@@ -1,6 +1,6 @@
 # Stackbit Starter Hugo
 
-Starter is a flexible, multi-purpose hugo theme built for developers and ready to use with Stackbit.
+Starter is a flexible, multi-purpose Hugo theme built for developers and ready to use with Stackbit.
 
 [Live Demo](https://themes.stackbit.com/demos/starter/?hideThemeBar) |
 [Stackbit](https://www.stackbit.com)
@@ -26,12 +26,6 @@ Starter is a flexible, multi-purpose hugo theme built for developers and ready t
 
 ## Stackbit
 
-Use Stackbit to deploy this theme and connect any headless CMS _(Forestry, NetlifyCMS, Sanity, Contentful, DatoCMS)_ - It's actually really amazing. This theme contains a valid and tested `stackbit.yaml`
+Use Stackbit to deploy this theme and connect a headless CMS. This theme contains a valid and tested `stackbit.yaml`
 
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/stackbit-starter-hugo)
-
-## Netlify
-
-Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackbit-themes/stackbit-starter-hugo)
