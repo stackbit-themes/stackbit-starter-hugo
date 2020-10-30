@@ -10,7 +10,7 @@ Starter is a flexible, multi-purpose Hugo theme built for developers and ready t
 ![Stackbit Starter Hugo Theme screenshot](https://themes.stackbit.com/images/starter-demo-1024x768.png)
 
 
-# Theme Installation
+# Running Your Site Locally
 
 1. Install Hugo [installation guide](https://gohugo.io/getting-started/installing/)
 
